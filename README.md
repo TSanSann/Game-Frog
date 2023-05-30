@@ -1,0 +1,3 @@
+Hello buddy. You can enjoy my first-created game for children just for fun. I would like to enhance it sometime in future. Don't scare to text me with some meaningful point how to enhanced this game . Thanx.
+
+Game have been written in Python - Pygame language. And in folder autoExe I created even auto-launching files mosQuito.exe (maybe you asking why is there React icon.. Because I like React icon (crest))
