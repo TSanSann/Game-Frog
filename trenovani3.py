@@ -25,7 +25,7 @@ screen.fill(rgb)
 #for certain_fot in fonts:
 #   print(certain_fot)
 
-
+s
 # FPS a hodiny
 clock = pygame.time.Clock()
 
